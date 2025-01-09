@@ -1,2 +1,3 @@
 # 026_Machine_Learning_Linear_Regression
-实现线性回归梯度下降算法的python程序
+
+### Python实现线性回归中的梯度下降算法
