@@ -1,3 +1,3 @@
-## Python实现Linear Regression
+## Use Python to implement Linear Regression
 
 
