@@ -10,7 +10,7 @@
   - 2nd Course: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
     - Lab1: Initialization
     - Lab2: Regularization
-    - Lab3：Gradient Checking
+    - Lab3: Gradient Checking
   - 3rd Course: Structuring Machine Learning Projects
   - 4th Course: Convolutional Neural Networks
   - 5th Course: Sequence Models
