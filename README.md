@@ -2,5 +2,9 @@
 
 ## Deep Learning
   - 1st Course: Neural Networks and Deep Learning
-    - Lab1: Python_Basics_with_Numpy
+    - Lab1: Python Basics with Numpy
+    - Lab2: Logistic Regression with a Neural Network Mindset
+    - Lab3: Planar Data Classification with One Hidden Layer
+    - Lab4: Building your Deep Neural Network Step by Step
+    - Lab5: Deep Neural Network-Application
 
