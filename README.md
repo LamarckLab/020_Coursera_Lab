@@ -6,5 +6,9 @@
     - Lab2: Logistic Regression with a Neural Network Mindset
     - Lab3: Planar Data Classification with One Hidden Layer
     - Lab4: Building your Deep Neural Network Step by Step
-    - Lab5: Deep Neural Network-Application
+    - Lab5: Deep Neural Network - Application
+  - 2nd Course: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
+  - 3rd Course: Structuring Machine Learning Projects
+  - 4th Course: Convolutional Neural Networks
+  - 5th Course: Sequence Models
 
