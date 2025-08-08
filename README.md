@@ -1,7 +1,6 @@
-## 备份了吴恩达在Coursera中的Online Course的Lab资料，供复习
-- 01 线性回归 Linear Regression
-- 02 多元线性回归 Multiple Linear Regression
-- 03 岭回归 Ridge Regression
-- 04 Lasso回归 Lasso Regression
-- 05 决策树回归 Decision Tree Regression
-- 06 随机森林回归 Random Forest Regression
+# 备份了吴恩达在Coursera中的Online Course的Lab资料，供复习
+
+## Deep Learning
+  - 1st Course: Neural Networks and Deep Learning
+    - Lab1: Python_Basics_with_Numpy
+
