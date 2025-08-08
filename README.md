@@ -1,4 +1,4 @@
-# 备份了吴恩达在Coursera中的Online Course的Lab资料，供复习
+# 备份了Andrew Ng在Coursera上的Online Courses的Lab作业资料，供复习查阅
 
 ## Deep Learning
   - 1st Course: Neural Networks and Deep Learning
