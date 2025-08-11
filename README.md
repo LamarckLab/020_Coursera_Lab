@@ -26,5 +26,6 @@
     - Lab7: Feature scaling and learning rate
     - Lab8: Feature engineering and Polynomial regression
     - Lab9: Linear regression with scikit-learn
+    - Lab10: Linear Regression
   - 2nd Course: Advanced Learning Algorithms
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
