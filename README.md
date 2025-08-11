@@ -21,6 +21,10 @@
     - Lab2: Model Representation
     - Lab3: Cost Function
     - Lab4: Gradient Descent
-    - 
+    - Lab5: Python, NumPy and vectorization
+    - Lab6: Multiple linear regression
+    - Lab7: Feature scaling and learning rate
+    - Lab8: Feature engineering and Polynomial regression
+    - Lab9: Linear regression with scikit-learn
   - 2nd Course: Advanced Learning Algorithms
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
