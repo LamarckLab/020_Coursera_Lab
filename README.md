@@ -1,4 +1,4 @@
-# 备份了Andrew Ng在Coursera上的Online Courses的Lab作业资料，供复习查阅
+# Archived lab assignments from Andrew Ng’s Coursera courses, useful for revision and quick lookup.
 
 ## Deep Learning
   - 1st Course: Neural Networks and Deep Learning
