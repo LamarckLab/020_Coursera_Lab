@@ -21,4 +21,6 @@
     - Lab2: Model Representation
     - Lab3: Cost Function
     - Lab4: Gradient Descent
-
+    - 
+  - 2nd Course: Advanced Learning Algorithms
+  - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
