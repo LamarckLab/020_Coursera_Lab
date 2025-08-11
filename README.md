@@ -15,3 +15,10 @@
   - 4th Course: Convolutional Neural Networks
   - 5th Course: Sequence Models
 
+## Machine Learning
+  - 1st Course: Python and Jupyter Notebooks
+    - Lab1: Python and Jupyter Notebooks
+    - Lab2: Model Representation
+    - Lab3: Cost Function
+    - Lab4: Gradient Descent
+
