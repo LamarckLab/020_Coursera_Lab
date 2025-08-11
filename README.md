@@ -1,4 +1,4 @@
-# Archived lab assignments from Andrew Ng’s Coursera courses, useful for revision and quick lookup.
+# Archived lab assignments from Andrew Ng’s Coursera courses, useful for revision and quick lookup!!!
 
 ## Deep Learning
   - 1st Course: Neural Networks and Deep Learning
