@@ -27,5 +27,8 @@
     - Lab8: Feature engineering and Polynomial regression
     - Lab9: Linear regression with scikit-learn
     - Lab10: Linear Regression
+    - Lab11: Classification
+    - Lab12: Sigmoid function and logistic regression
+    - Lab13: Decision boundary
   - 2nd Course: Advanced Learning Algorithms
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
