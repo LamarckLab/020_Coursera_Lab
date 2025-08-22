@@ -32,6 +32,10 @@
     - Lab13: Decision boundary
     - Lab14: Logistic loss
     - Lab15: Cost function for logistic regression
-    - Lab16
+    - Lab16: Gradient descent for logistic regression
+    - Lab17: Logistic regression with scikit-learn
+    - Lab18: Overfitting
+    - Lab19: Regularization
+    - Lab20: logistic regression
   - 2nd Course: Advanced Learning Algorithms
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
