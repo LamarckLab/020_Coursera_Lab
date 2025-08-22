@@ -30,5 +30,8 @@
     - Lab11: Classification
     - Lab12: Sigmoid function and logistic regression
     - Lab13: Decision boundary
+    - Lab14: Logistic loss
+    - Lab15: Cost function for logistic regression
+    - Lab16
   - 2nd Course: Advanced Learning Algorithms
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
