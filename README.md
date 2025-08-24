@@ -55,7 +55,7 @@
     - Lab15: Tree Ensembles
     - Lab16: Decision Trees (Assignment)
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
-    - Lab1: 
+    - Lab1: k-means
     - Lab2: 
     - Lab3:
     - Lab4:
