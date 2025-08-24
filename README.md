@@ -38,10 +38,10 @@
     - Lab19: Regularization
     - Lab20: logistic regression
   - 2nd Course: Advanced Learning Algorithms
-    - Lab1:
-    - Lab2:
-    - Lab3:
-    - Lab4:
+    - Lab1: Neurons and Layers
+    - Lab2: Coffee Roasting in Tensorflow
+    - Lab3: CoffeeRoastingNumPy
+    - Lab4: Neural Networks for Binary Classification
     - Lab5:
     - Lab6:
     - Lab7:
