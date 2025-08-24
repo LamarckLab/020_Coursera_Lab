@@ -46,12 +46,12 @@
     - Lab6: Softmax
     - Lab7: Multiclass
     - Lab8: Derivatives
-    - Lab9:
-    - Lab10:
-    - Lab11:
-    - Lab12:
-    - Lab13:
-    - Lab14:
-    - Lab15:
-    - Lab16:
+    - Lab9: Back propagation
+    - Lab10: Neural Networks for Multiclass classification
+    - Lab11: Model Evaluation and Selection
+    - Lab12: Diagnosing Bias and Variance
+    - Lab13: Advice for Applying Machine Learning
+    - Lab14: Decision Trees
+    - Lab15: Tree Ensembles
+    - Lab16: Decision Trees (Assignment)
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
