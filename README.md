@@ -42,10 +42,10 @@
     - Lab2: Coffee Roasting in Tensorflow
     - Lab3: CoffeeRoastingNumPy
     - Lab4: Neural Networks for Binary Classification
-    - Lab5:
-    - Lab6:
-    - Lab7:
-    - Lab8:
+    - Lab5: ReLU activation
+    - Lab6: Softmax
+    - Lab7: Multiclass
+    - Lab8: Derivatives
     - Lab9:
     - Lab10:
     - Lab11:
