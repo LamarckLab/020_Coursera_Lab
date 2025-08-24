@@ -56,9 +56,9 @@
     - Lab16: Decision Trees (Assignment)
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
     - Lab1: k-means
-    - Lab2: 
-    - Lab3:
-    - Lab4:
-    - Lab5:
-    - Lab6:
-    - Lab7:
+    - Lab2: Anomaly Detection
+    - Lab3: Collaborative Filtering Recommender Systems
+    - Lab4: Deep Learning for Content-Based Filtering
+    - Lab5: PCA and data visualization
+    - Lab6: State-action value function
+    - Lab7: Reinforcement Learning
