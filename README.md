@@ -17,15 +17,15 @@
 
 ## Machine Learning
   - 1st Course: Python and Jupyter Notebooks
-    - Lab1: Python and Jupyter Notebooks
-    - Lab2: Model Representation
-    - Lab3: Cost Function
-    - Lab4: Gradient Descent
-    - Lab5: Python, NumPy and vectorization
-    - Lab6: Multiple linear regression
-    - Lab7: Feature scaling and learning rate
-    - Lab8: Feature engineering and Polynomial regression
-    - Lab9: Linear regression with scikit-learn
+    - Lab01: Python and Jupyter Notebooks
+    - Lab02: Model Representation
+    - Lab03: Cost Function
+    - Lab04: Gradient Descent
+    - Lab05: Python, NumPy and vectorization
+    - Lab06: Multiple linear regression
+    - Lab07: Feature scaling and learning rate
+    - Lab08: Feature engineering and Polynomial regression
+    - Lab09: Linear regression with scikit-learn
     - Lab10: Linear Regression
     - Lab11: Classification
     - Lab12: Sigmoid function and logistic regression
@@ -38,4 +38,20 @@
     - Lab19: Regularization
     - Lab20: logistic regression
   - 2nd Course: Advanced Learning Algorithms
+    - Lab01:
+    - Lab02:
+    - Lab03:
+    - Lab04:
+    - Lab05:
+    - Lab06:
+    - Lab07:
+    - Lab08:
+    - Lab09:
+    - Lab10:
+    - Lab11:
+    - Lab12:
+    - Lab13:
+    - Lab14:
+    - Lab15:
+    - Lab16:
   - 3rd Course: Unsupervised Learning, Recommenders, Reinforcement Learning
