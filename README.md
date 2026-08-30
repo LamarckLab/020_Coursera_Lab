@@ -1,4 +1,4 @@
-<p align="right"><strong>English</strong> | <a href="./README.zh-CN.md">中文</a></p>
+<p align="right"><strong>English</strong> | <a href="./docs_CN/README_CN.md">中文</a></p>
 
 <h1 align="center">💻 Andrew Ng · Coursera Lab Archive</h1>
 
